@@ -1,0 +1,7 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/dynamic_programming": "pages/dynamic_programming.js",
+  "/tools": "pages/tools.js"
+}
