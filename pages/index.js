@@ -1,5 +1,4 @@
 import Layout from '../components/Layout'
-
 const Index = () => (
 	<Layout>
 	<h1>Index</h1>
