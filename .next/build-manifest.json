@@ -29,10 +29,10 @@
       "static/chunks/main.js",
       "static/chunks/pages/_error.js"
     ],
-    "/tools": [
+    "/dynamic_programming": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
-      "static/chunks/pages/tools.js"
+      "static/chunks/pages/dynamic_programming.js"
     ]
   },
   "ampFirstPages": []
